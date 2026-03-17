@@ -29,4 +29,4 @@ Once the program is running, use the following inputs in the terminal:
 - **Fade Effect**: Implements `FadeMusicOut(2000)` to ensure a smooth transition upon exiting.
 
 ---
-*Developed as part of a C# systems logic study at Monash University.*
+*Developed as part of a C# systems logic study at Monash University*
