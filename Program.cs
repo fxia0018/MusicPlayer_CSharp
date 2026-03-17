@@ -117,3 +117,5 @@ while (isRunning)
 
     FadeMusicOut(2000);
 }
+
+// 正在为我的 GitHub 主页收割小鲨鱼勋章 🦈
