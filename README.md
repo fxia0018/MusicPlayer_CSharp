@@ -20,6 +20,3 @@ This project is a personalized music player that allows users to listen to my fa
 - **Language**: C#
 - **Framework**: SplashKit SDK
 - **Environment**: MacOS / Linux / Windows (Terminal)
-
----
-⚡ **Fun fact**: **According to my research, I found that I am 100% more likely to be thirsty when I don't drink water.**
